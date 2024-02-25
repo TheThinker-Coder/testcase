@@ -1,0 +1,6 @@
+com\testcase\TestcaseApplication.class
+com\testcase\controller\PatientController.class
+com\testcase\Service\patientServiceImpl\PatientServiceImpl.class
+com\testcase\Service\PatientService.class
+com\testcase\entity\PatientRecord.class
+com\testcase\Repo\PatienRecordRepo.class
